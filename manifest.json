@@ -1,0 +1,16 @@
+{
+  "name": "Last Asylum AD Planner",
+  "short_name": "AD Planner",
+  "description": "Mobiler Planer für Last Asylum Alliance Duel.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#09101f",
+  "theme_color": "#111827",
+  "lang": "de",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
