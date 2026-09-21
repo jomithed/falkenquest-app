@@ -1,4 +1,4 @@
-const CACHE_NAME = 'falkenquest-v1.7';
+const CACHE_NAME = 'falkenquest-v4-4';
 const APP_SHELL = [
   './',
   './index.html',
